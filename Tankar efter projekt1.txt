@@ -1,0 +1,10 @@
+1. Jag lärde mig hur viktigt det är med programmering. Minsta lilla tecken kan ställa till det ordentligt. 
+Till exempel så hade jag skrivit "return" i en for-loop, istället för efter for-loopen, vilket innebar
+att lamporna inte blinkade.
+
+2. Det var lätt att skriva ner #define typerna, men det var svårt med teknikaliteterna, dvs allt på detaljnivå.
+
+3. Hade uppskattat en guide på tavlan med grunderna innan man började, och kanske några "kom-ihåg-tips" gällande
+vad man ska ha med i programmeringen. Inte i detaljnivå såklart, men väldigt övergripande bara.
+
+4. Inga övriga kommentarer.
